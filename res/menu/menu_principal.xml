@@ -1,0 +1,6 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+    <item android:id="@+id/voltar1" android:title="Voltar Menu Principal" android:titleCondensed="Voltar Menu Principal"></item>
+    <item android:id="@+id/sair1" android:titleCondensed="Sobre" android:title="Sobre"></item>
+    <item android:id="@+id/proxim1" android:titleCondensed="Proximo" android:title="Proximo"></item>
+	<item android:id="@+id/reset1" android:titleCondensed="Resetar" android:title="Resetar"></item>
+</menu>
