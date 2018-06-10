@@ -1,4 +1,4 @@
-package br.com.android.apprendaenglish;
+package br.ailtonbsj.apprendaenglish;
 
 import java.io.BufferedReader;
 import java.io.File;
@@ -11,7 +11,7 @@ import java.util.ArrayList;
 import java.util.Locale;
 import java.util.Random;
 
-import br.com.android.R;
+import br.ailtonbsj.apprendaenglish.R;
 import android.os.Bundle;
 import android.os.Environment;
 import android.os.Vibrator;

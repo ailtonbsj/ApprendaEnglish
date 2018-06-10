@@ -1,7 +1,7 @@
-package br.com.android.apprendaenglish;
+package br.ailtonbsj.apprendaenglish;
 
-import br.com.android.R;
-import br.com.android.R.styleable;
+import br.ailtonbsj.apprendaenglish.R;
+import br.ailtonbsj.apprendaenglish.R.styleable;
 import android.content.Context;
 import android.content.res.TypedArray;
 import android.util.AttributeSet;

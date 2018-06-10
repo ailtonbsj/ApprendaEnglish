@@ -54,12 +54,12 @@
             android:layout_height="match_parent"
             android:orientation="vertical" >
 
-            <br.com.android.apprendaenglish.FlowLayout
+            <br.ailtonbsj.apprendaenglish.FlowLayout
                 android:id="@+id/area_botoes1"
                 android:layout_width="wrap_content"
                 android:layout_height="match_parent" >
 
-            </br.com.android.apprendaenglish.FlowLayout>
+            </br.ailtonbsj.apprendaenglish.FlowLayout>
         </LinearLayout>
     </ScrollView>
 
