@@ -7,3 +7,7 @@ Com esse app você pode treinar o seu Inglês fazendo traduções de frases e tr
 - Escute a frase e Escreva traduzido
 - Escute a frase e Escreva em inglês
 - Modo Aleatório
+
+## Requisitos de desenvolvimento
+
+- Android Developer Tools 22.3.0
